@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #085e7d;
+}
+.bg-dark {
+  background-color: #085e7d !important;
+}
+.py-5 {
+  background-color: #085e7d;
+}
+#map {
+  height: 450px;
+}
+@media (min-width: 768px) {
+  #map {
+    height: 100%;
+  }
+}
